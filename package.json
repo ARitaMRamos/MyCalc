@@ -1,0 +1,14 @@
+{
+  "name": "project-calculadora",
+  "version": "1.0.0",
+  "description": "projet my calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Rita Ramos",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^11.1.0"
+  }
+}
